@@ -1,0 +1,7 @@
+{
+  "name": "الحاسبة الذكية (Smart Calculator)",
+  "description": "تطبيق آلة حاسبة متطور للجوال يدعم العمليات الحسابية الأساسية والذكاء الاصطناعي لحل المسائل المعقدة. (A smart mobile calculator supporting basic operations and AI for complex math problems.)",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
